@@ -1,4 +1,4 @@
-// 0 ms | 44 MB
+// 0 ms | 44.5 MB
 class Solution {
     public int[] runningSum(int[] nums) {
         int sum=0;
