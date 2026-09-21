@@ -1,4 +1,4 @@
-// 36 ms | 59.1 MB
+// 34 ms | 59.4 MB
 import java.util.*;
 
 class Solution {
