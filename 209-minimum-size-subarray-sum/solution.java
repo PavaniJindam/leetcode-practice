@@ -1,4 +1,4 @@
-// 2 ms | 69.1 MB
+// 1 ms | 69.1 MB
 class Solution {
     public int minSubArrayLen(int target, int[] nums) {
         int left=0,right=0,sum=0,length=0,minlength=nums.length,found=0;
@@ -14,13 +14,11 @@ class Solution {
                 minlength=length;
             }
             }
-            else{
+            else
                 right++;
-            }
         }
-        if(found==0){
+        if(found==0)
             minlength=0;
-        }
         return minlength;
     }
 }
