@@ -1,4 +1,4 @@
-// 107 ms | 47.8 MB
+// 106 ms | 47.9 MB
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         String r="";
@@ -12,8 +12,7 @@ class Solution {
                 r=r.substring(r.indexOf(s.charAt(i))+1)+s.charAt(i);
                 l=r.length();
             }
-            if(max<l)
-             max=l;
+            max=Math.max(max,l);
         }
         return max;
     }
