@@ -11,6 +11,7 @@ Solved: 19 (Easy: 13, Medium: 6, Hard: 0)
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-09-27 |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 2026-09-27 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-27 |
+| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-27 |
 | 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-09-27 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-09-27 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-27 |
@@ -23,5 +24,4 @@ Solved: 19 (Easy: 13, Medium: 6, Hard: 0)
 | 560 | [Subarray Sum Equals K](560-subarray-sum-equals-k/) | Medium | 2026-09-27 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-27 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-27 |
-| 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-09-27 |
 <!-- LEETHUB:TABLE:END -->
