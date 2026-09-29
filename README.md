@@ -8,6 +8,7 @@ Solved: 21 (Easy: 14, Medium: 7, Hard: 0)
 | 15 | [3Sum](15-3sum/) | Medium | 2026-09-29 |
 | 1920 | [Build Array from Permutation](1920-build-array-from-permutation/) | Easy | 2026-09-29 |
 | 1929 | [Concatenation of Array](1929-concatenation-of-array/) | Easy | 2026-09-29 |
+| 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-09-29 |
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-09-29 |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 2026-09-29 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-09-29 |
@@ -25,5 +26,4 @@ Solved: 21 (Easy: 14, Medium: 7, Hard: 0)
 | 560 | [Subarray Sum Equals K](560-subarray-sum-equals-k/) | Medium | 2026-09-29 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-29 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-09-29 |
-| 217 | [Contains Duplicate](217-contains-duplicate/) | Easy | 2026-09-29 |
 <!-- LEETHUB:TABLE:END -->
