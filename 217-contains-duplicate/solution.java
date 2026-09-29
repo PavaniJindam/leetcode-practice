@@ -1,11 +1,12 @@
-// 23 ms | 93 MB
+// 18 ms | 108.2 MB
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
-        for (int n : nums)
-            set.add(n);
-        if(set.size()==nums.length)
-            return false;
-        return true;
+        for (int n : nums){
+            if(set.contains(n))
+            return true;
+            set.add(n);}
+        
+        return false;
     }
 }
