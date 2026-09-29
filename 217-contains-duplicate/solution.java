@@ -1,4 +1,4 @@
-// 18 ms | 108.2 MB
+// 18 ms | 108.1 MB
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
@@ -6,7 +6,6 @@ class Solution {
             if(set.contains(n))
             return true;
             set.add(n);}
-        
         return false;
     }
 }
