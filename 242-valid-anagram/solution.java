@@ -1,4 +1,4 @@
-// 6 ms | 44.1 MB
+// 5 ms | 44.3 MB
 class Solution {
     public boolean isAnagram(String s, String t) {
         int[] count=new int[26];
@@ -8,7 +8,6 @@ class Solution {
             count[t.charAt(i)-'a']++;
             count[s.charAt(i)-'a']--;
         }
-
         for(int x:count){
             if(x!=0)
             return false;
