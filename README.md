@@ -12,6 +12,7 @@ Solved: 23 (Easy: 16, Medium: 7, Hard: 0)
 | 34 | [Find First and Last Position of Element in Sorted Array](34-find-first-and-last-position-of-element-in-sorted-array/) | Medium | 2026-10-01 |
 | 1295 | [Find Numbers with Even Number of Digits](1295-find-numbers-with-even-number-of-digits/) | Easy | 2026-10-01 |
 | 724 | [Find Pivot Index](724-find-pivot-index/) | Easy | 2026-10-01 |
+| 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-10-01 |
 | 3 | [Longest Substring Without Repeating Characters](3-longest-substring-without-repeating-characters/) | Medium | 2026-10-01 |
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/) | Medium | 2026-10-01 |
 | 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-10-01 |
@@ -27,5 +28,4 @@ Solved: 23 (Easy: 16, Medium: 7, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-01 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-10-01 |
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-10-01 |
-| 349 | [Intersection of Two Arrays](349-intersection-of-two-arrays/) | Easy | 2026-10-01 |
 <!-- LEETHUB:TABLE:END -->
