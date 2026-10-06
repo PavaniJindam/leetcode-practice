@@ -17,6 +17,7 @@ Solved: 25 (Easy: 18, Medium: 7, Hard: 0)
 | 169 | [Majority Element](169-majority-element/) | Easy | 2026-10-06 |
 | 1004 | [Max Consecutive Ones III](1004-max-consecutive-ones-iii/) | Medium | 2026-10-06 |
 | 643 | [Maximum Average Subarray I](643-maximum-average-subarray-i/) | Easy | 2026-10-06 |
+| 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-10-06 |
 | 209 | [Minimum Size Subarray Sum](209-minimum-size-subarray-sum/) | Medium | 2026-10-06 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-10-06 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-10-06 |
@@ -29,5 +30,4 @@ Solved: 25 (Easy: 18, Medium: 7, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-10-06 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-10-06 |
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-10-06 |
-| 88 | [Merge Sorted Array](88-merge-sorted-array/) | Easy | 2026-10-06 |
 <!-- LEETHUB:TABLE:END -->
