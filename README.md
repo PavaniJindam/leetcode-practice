@@ -1,7 +1,7 @@
 # Solutions
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 31 (Easy: 19, Medium: 12, Hard: 0)
+Solved: 32 (Easy: 19, Medium: 13, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -25,6 +25,7 @@ Solved: 31 (Easy: 19, Medium: 12, Hard: 0)
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-11-22 |
 | 303 | [Range Sum Query - Immutable](303-range-sum-query-immutable/) | Easy | 2026-11-22 |
 | 26 | [Remove Duplicates from Sorted Array](26-remove-duplicates-from-sorted-array/) | Easy | 2026-11-22 |
+| 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-22 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/) | Easy | 2026-11-22 |
 | 189 | [Rotate Array](189-rotate-array/) | Medium | 2026-11-22 |
 | 1480 | [Running Sum of 1d Array](1480-running-sum-of-1d-array/) | Easy | 2026-11-22 |
@@ -35,5 +36,5 @@ Solved: 31 (Easy: 19, Medium: 12, Hard: 0)
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-11-22 |
 | 167 | [Two Sum II - Input Array Is Sorted](167-two-sum-ii-input-array-is-sorted/) | Medium | 2026-11-22 |
 | 242 | [Valid Anagram](242-valid-anagram/) | Easy | 2026-11-22 |
-| 27 | [Remove Element](27-remove-element/) | Easy | 2026-11-22 |
+| 31 | [Next Permutation](31-next-permutation/) | Medium | 2026-11-22 |
 <!-- LEETHUB:TABLE:END -->
